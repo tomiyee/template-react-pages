@@ -1,3 +1,12 @@
+# For Self
+
+Add this in the package.json file
+`"homepage": "http://{username}.github.io/{repo-name}"`
+
+Then npm run deploy
+
+[This link](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
